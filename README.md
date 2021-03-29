@@ -1,4 +1,4 @@
-# terraform-aws-x
+# terraform-module-x
 
 Terraform Module Template
 
