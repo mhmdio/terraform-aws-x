@@ -1,4 +1,4 @@
-# terraform-module-x
+# terraform-module-xyz
 
 Terraform Module Template
 
